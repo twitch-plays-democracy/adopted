@@ -1,4 +1,18 @@
-# adopted
+# twitchplaysdemocracy.tv - A Parliament for the Internet
+
+Il y a exactement dix ans, TwitchPlaysPokemon, notre inspiration sacrée, a prouvé que la foule, grâce aux technologies du streaming et à son amour pour le jeu vidéo, était capable de s’organiser à grande échelle en temps réel pour résoudre des problèmes de coordination complexes.
+
+Twitch_plays_democracy cherche à appliquer ce même constat à la création de consensus politique. Cette expérimentation a vocation à organiser la vie interne d’un parti politique Français en temps réel.
+
+Merci de respecter nos règles de bonne conduite avant de participez !
+
+---
+
+Exactly ten years ago, TwitchPlaysPokemon, our sacred inspiration, proved that the crowd, thanks to streaming technologies and its love for gaming, was capable of self-organizing on a large scale to solve complex coordination problems.
+
+Twitch_plays_democracy aims to apply that same logic to the creation of political consensus. This experiment consists in organizing the internal life of a French political party in real time.
+
+Please respect our contribution guidelines before you participate!
 
 ## Chat commands
 
